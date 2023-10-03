@@ -1,3 +1,5 @@
+#Eelnevalt lisatud Anaconda Navigatoris Python-i keskkonnale OpenCV-contrib.
+#https://pypi.org/project/opencv-python/
 #Impordime OpenCV
 import cv2 as cv
 #Impordime numpy
