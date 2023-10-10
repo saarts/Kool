@@ -1,5 +1,6 @@
 import cv2 as cv
 
+
 #Juhtriba callback funktsioon, mida me ei kasuta
 def on_change(value):
     pass
