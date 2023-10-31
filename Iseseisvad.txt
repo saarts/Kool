@@ -1,0 +1,16 @@
+1.
+
+
+
+2.
+
+
+
+3. Teete ise kontuuride leidmise ülesande koduste vahenditega.
+Variant 1:
+  - Teete video, kus kasutades kaamerat(n.t. web-cam), näitate objekte ning algoritm loeb live-s üles objektide arvu
+
+Variant 2:
+  - Teete 10 pilti objektidest ja näitate vastavalt, kuidas algoritm objektid üles leidis.
+
+
